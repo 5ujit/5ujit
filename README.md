@@ -33,3 +33,4 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=5ujit&" alt="5ujit" />
 </p>
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
