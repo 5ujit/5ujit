@@ -26,12 +26,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5ujit&show_icons=true&locale=en&layout=compact" alt="5ujit" />
 </p>
   
-<br>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=5ujit&show_icons=true&locale=en" alt="5ujit" />
-</p>
-<br>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5ujit&" alt="5ujit" />
-</p>
-
